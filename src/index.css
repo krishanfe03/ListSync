@@ -1,3 +1,7 @@
+*{
+  overflow-y: hidden;
+  font-family: sans-serif;
+}
 body{
-  background: #29313f;
+  background: rgb(177, 238, 238);
 }
